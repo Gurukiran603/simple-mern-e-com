@@ -65,6 +65,3 @@ simple-mern-e-com/
 ## 👨‍💻 Author
 
 Developed by **[Gurukiran C S](https://github.com/Gurukiran603)**
-
-Would you like me to also **add screenshots/demo section** (with placeholders where you can upload your app screenshots later) to make your README more attractive?
-```
